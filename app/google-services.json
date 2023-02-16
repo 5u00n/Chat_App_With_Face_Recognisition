@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "200557286807",
+    "firebase_url": "https://chatapp-with-face-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-with-face",
+    "storage_bucket": "chatapp-with-face.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200557286807:android:ad29900d33d1c851ace0d2",
+        "android_client_info": {
+          "package_name": "com.group15.facechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200557286807-nec15i5ps4kikh7lnuothvquahsb34pj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.group15.facechatapp",
+            "certificate_hash": "8a451d12771a639536e42d2716747068b16ff2d1"
+          }
+        },
+        {
+          "client_id": "200557286807-6d62a8ouv1eife3n7ui4jp1pkm7jbql6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeCHNAmv7pJ8s-fOYdCkztBVWIO_F_riU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200557286807-6d62a8ouv1eife3n7ui4jp1pkm7jbql6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
